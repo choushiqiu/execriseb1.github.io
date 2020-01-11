@@ -5,7 +5,7 @@
 		
 		<style>
 			article {
-				background-image: url("img/rock4bgrnd.jpg");
+				background-image: url("/choushiqiu/execriseb1.github.io/blob/master/rock4bgrnd.jpg?raw=true");
 				background-repeat: no-repeat;
 				background-size: 100%;
 				margin: 0px;
