@@ -65,7 +65,7 @@
 	
 	<img id="album" src="img/concreteGold.jpg">
 	<div class="quote">
-	<p> "Musically and emotionally, Concrete and Gold is their most balanced record yet 鈥� from stadium-punk dive bombers like "Run" and "La Dee Da" to the acoustic soul that opens "T-Shirt," in which Grohl gets his Nina Simone on, singing, "I don't wanna be king- I just wanna sing a love song." "Sunday Rain" is a guitar weeper so late-Beatles great it even has Paul McCartney playing drums on it." </p>
+	<p> "Musically and emotionally, Concrete and Gold is their most balanced record yet - from stadium-punk dive bombers like "Run" and "La Dee Da" to the acoustic soul that opens "T-Shirt," in which Grohl gets his Nina Simone on, singing, "I don't wanna be king- I just wanna sing a love song." "Sunday Rain" is a guitar weeper so late-Beatles great it even has Paul McCartney playing drums on it." </p>
 	<div id="name">
 	<p><em>- Rolling Stone</em></p>
 </div>
